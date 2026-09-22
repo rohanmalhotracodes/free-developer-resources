@@ -289,6 +289,7 @@ It makes it easier for new people to find this repository.
 | [iHateRegex](https://ihateregex.io/) | Regex Cheat Sheet |
 | [Pastebin](https://pastebin.com) | Share snippets |
 | [GitHub](https://github.com) | GitHub is where over 100 million developers shape the future of software, together. |
+| [HelpMeHack](https://www.helpmehack.tech/) | Discover active open-source repositories with currently startable issues and contribution-rule context. |
 | [Grammarly](https://app.grammarly.com/) | Instantly generate clear, compelling writing while maintaining your unique voice. |
 | [Stack Overflow](https://stackoverflow.com/) | Every developer/data scientist/system admin/mobile developer/game developer has a tab open to Stack Overflow |
 
